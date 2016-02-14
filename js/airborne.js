@@ -2,8 +2,8 @@
 
 window.onload = function () {
 //	var game = new Phaser.Game(400, 580, Phaser.CANVAS);
-	var game = new Phaser.Game(600, 800, Phaser.CANVAS);
-//	var game = new Phaser.Game("100%", "100%", Phaser.CANVAS);
+//	var game = new Phaser.Game(600, 800, Phaser.CANVAS);
+	var game = new Phaser.Game("100%", "100%", Phaser.CANVAS);
 	
 	//the plane
 	var plane;
